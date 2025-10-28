@@ -1,0 +1,25 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20250215180719
+Username: MG\madma
+RunAs User: MG\madma
+Configuration Name: 
+Machine: MG (Microsoft Windows NT 10.0.26100.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 37028
+PSVersion: 5.1.26100.2161
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.26100.2161
+BuildVersion: 10.0.26100.2161
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is FortuneTellerSwitch.txt
+PS G:\My Drive\CSCI207\Project 2 Fortune Teller> .\FortuneTellerProject.cpp
+PS G:\My Drive\CSCI207\Project 2 Fortune Teller> stop-transcript
+**********************
+Windows PowerShell transcript end
+End time: 20250215181534
+**********************
