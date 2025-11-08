@@ -2,7 +2,7 @@
 
 //*  FILE NAME: 
  //Madeline Project
-//* AUTHOR: Madeline Adelstone 
+//* AUTHOR: Madeline 
 //*  DESCRIPTION:
 // To help children with mixed fractions  
 //*
@@ -54,7 +54,7 @@ int main()
         cout << "Your Denominator and/ or your Numerator should be between 1-2,147,483,647";
     return 0; 
 }
-\\#include <iostream>
+#include <iostream>
 #include <string>
 using namespace std;
 
@@ -73,4 +73,5 @@ int main()
     cout << "(" << areaCode << ")" << prefix << " " << postfix << endl;
     return 0;
 }
+
  
